@@ -43,7 +43,7 @@ create table student (RollNo NUMBER,Name char(20),Age NUMBER,Address char(20),Ph
  
 ### SQL QUERY: 
 ```
-
+drop table student;
 ```
 ### OUTPUT:
 
