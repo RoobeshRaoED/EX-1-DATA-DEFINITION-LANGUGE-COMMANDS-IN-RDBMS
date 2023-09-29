@@ -27,7 +27,7 @@ create table student (RollNo NUMBER,Name char(20),Age NUMBER,Address char(20),Ph
 ```
 ### OUTPUT:
 
-![]()
+![](1.1.png)
 
 ### 2) Change the above student table by adding another attribute department
 
@@ -37,7 +37,7 @@ create table student (RollNo NUMBER,Name char(20),Age NUMBER,Address char(20),Ph
 ```
 ### OUTPUT:
 
-![]()
+![](1.2.png)
 
 ### 3) Drop the student table
  
@@ -47,7 +47,7 @@ drop table student;
 ```
 ### OUTPUT:
 
-![]()
+![](1.3.png)
 
 ### 4) Delete the student table using truncate keyword
 
@@ -57,7 +57,7 @@ TRUNCATE TABLE student;
 ```
 ### OUTPUT:
 
-![]()
+![](1.4.png)
 
 ### 5) Rename the student table to my_student
 
@@ -67,4 +67,4 @@ TRUNCATE TABLE student;
 ```
 ### OUTPUT:
 
-![]()
+![](1.5.png)
