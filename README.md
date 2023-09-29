@@ -53,7 +53,7 @@ drop table student;
 
 ### SQL QUERY: 
 ```
-
+TRUNCATE TABLE student;
 ```
 ### OUTPUT:
 
