@@ -59,11 +59,11 @@ TRUNCATE TABLE student;
 
 ![]()
 
-### 5) Rename the student table to mystudent
+### 5) Rename the student table to my_student
 
 ### SQL QUERY: 
 ```
-
+ RENAME student to my_student;
 ```
 ### OUTPUT:
 
