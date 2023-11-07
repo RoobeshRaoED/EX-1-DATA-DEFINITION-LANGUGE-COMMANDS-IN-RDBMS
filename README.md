@@ -2,7 +2,7 @@
 
 ## DATE:
 
-## 04/08/2023
+### 04/08/2023
 
 ## AIM:
 To create a student database and execute DDL queries using SQL.
